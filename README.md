@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&size=26&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Learner;JavaScript+%7C+TypeScript+Developer;Open+Source+Enthusiast" />💻 fullstack Software Developer
 🌍 Kigali, Rwanda
 
----
 
 ## Tech Skills
 
@@ -26,7 +25,6 @@ Programming Languages
 - REST APIs
 - Responsive Web Design
 
-- 
 # Databases
 
 <p>
@@ -34,7 +32,6 @@ Programming Languages
 </p>- MongoDB
 - MySQL
 
----
 
 # Frameworks & Libraries
 
@@ -42,8 +39,6 @@ Programming Languages
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>---
 
-
----
 
 ## 🌐 Platforms & Technologies
 
