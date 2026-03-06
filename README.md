@@ -1,6 +1,6 @@
 ## Hi, I'm  Ngiruwonsanga
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&size=26&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Learner;JavaScript+%7C+TypeScript+Developer;Open+Source+Enthusiast" />💻 fullstack Software Developer
+<img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&size=26&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+developer;JavaScript+%7C+TypeScript+Developer;problems+solver" />💻 fullstack Software Developer
 🌍 Kigali, Rwanda
 
 
